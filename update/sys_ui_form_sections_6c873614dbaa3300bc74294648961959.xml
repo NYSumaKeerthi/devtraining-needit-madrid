@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_ui_form_sections form_id="f8588c18dbe23300bc74294648961917" sys_domain="global" table="sys_ui_policy" version="3">
+    <sys_ui_form_sections form_id="6c873614dbaa3300bc74294648961959" sys_domain="global" table="sys_ui_policy" version="3">
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
@@ -9,8 +9,8 @@
             <sys_id>f0588c18dbe23300bc7429464896191c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
-            <sys_ui_form display_value="sys_ui_policy" name="sys_ui_policy" sys_domain="global" view="8195ea76db523300bc74294648961987">f8588c18dbe23300bc74294648961917</sys_ui_form>
-            <sys_ui_section caption="NULL" display_value="" name="sys_ui_policy" sys_domain="global" view="8195ea76db523300bc74294648961987">74588c18dbe23300bc7429464896191a</sys_ui_section>
+            <sys_ui_form display_value="sys_ui_policy" name="sys_ui_policy" sys_domain="global" view="8195ea76db523300bc74294648961987">6c873614dbaa3300bc74294648961959</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="sys_ui_policy" sys_domain="global" view="8195ea76db523300bc74294648961987">20d73a14dbaa3300bc74294648961945</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-07-05 16:39:07</sys_updated_on>
         </sys_ui_form_section>
@@ -23,7 +23,7 @@
             <sys_id>34588c18dbe23300bc74294648961939</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
-            <sys_ui_form display_value="sys_ui_policy" name="sys_ui_policy" sys_domain="global" view="8195ea76db523300bc74294648961987">f8588c18dbe23300bc74294648961917</sys_ui_form>
+            <sys_ui_form display_value="sys_ui_policy" name="sys_ui_policy" sys_domain="global" view="8195ea76db523300bc74294648961987">6c873614dbaa3300bc74294648961959</sys_ui_form>
             <sys_ui_section caption="When to Apply" display_value="When to Apply" name="sys_ui_policy" sys_domain="global" view="8195ea76db523300bc74294648961987">f4588c18dbe23300bc7429464896191f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-07-05 16:39:07</sys_updated_on>
@@ -37,7 +37,7 @@
             <sys_id>a0ea0898dbe23300bc742946489619b0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
-            <sys_ui_form display_value="sys_ui_policy" name="sys_ui_policy" sys_domain="global" view="8195ea76db523300bc74294648961987">f8588c18dbe23300bc74294648961917</sys_ui_form>
+            <sys_ui_form display_value="sys_ui_policy" name="sys_ui_policy" sys_domain="global" view="8195ea76db523300bc74294648961987">6c873614dbaa3300bc74294648961959</sys_ui_form>
             <sys_ui_section caption="Script" display_value="Script" name="sys_ui_policy" sys_domain="global" view="8195ea76db523300bc74294648961987">28ea0898dbe23300bc742946489619ad</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-07-05 16:50:18</sys_updated_on>
@@ -50,14 +50,14 @@
             <sys_created_on>2019-07-05 16:39:07</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>f8588c18dbe23300bc74294648961917</sys_id>
+            <sys_id>6c873614dbaa3300bc74294648961959</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>sys_ui_policy</sys_name>
             <sys_overrides/>
             <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
             <sys_policy/>
             <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-            <sys_update_name>sys_ui_form_sections_f8588c18dbe23300bc74294648961917</sys_update_name>
+            <sys_update_name>sys_ui_form_sections_6c873614dbaa3300bc74294648961959</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-07-05 16:39:07</sys_updated_on>
             <sys_user/>

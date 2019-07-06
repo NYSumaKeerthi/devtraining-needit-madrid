@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_ui_section caption="" section_id="74588c18dbe23300bc7429464896191a" sys_domain="global" table="sys_ui_policy" version="3" view="Advanced">
+    <sys_ui_section caption="" section_id="20d73a14dbaa3300bc74294648961945" sys_domain="global" table="sys_ui_policy" version="3" view="Advanced">
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
@@ -19,7 +19,7 @@
             <sys_id>c590189cdbe23300bc742946489619c3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sys_ui_policy" sys_domain="global" view="8195ea76db523300bc74294648961987">74588c18dbe23300bc7429464896191a</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sys_ui_policy" sys_domain="global" view="8195ea76db523300bc74294648961987">20d73a14dbaa3300bc74294648961945</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-07-05 17:15:11</sys_updated_on>
             <sys_user/>
@@ -33,7 +33,7 @@
             <sys_id>4990189cdbe23300bc742946489619c3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sys_ui_policy" sys_domain="global" view="8195ea76db523300bc74294648961987">74588c18dbe23300bc7429464896191a</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sys_ui_policy" sys_domain="global" view="8195ea76db523300bc74294648961987">20d73a14dbaa3300bc74294648961945</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-07-05 17:15:11</sys_updated_on>
             <sys_user/>
@@ -47,7 +47,7 @@
             <sys_id>c990189cdbe23300bc742946489619c3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sys_ui_policy" sys_domain="global" view="8195ea76db523300bc74294648961987">74588c18dbe23300bc7429464896191a</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sys_ui_policy" sys_domain="global" view="8195ea76db523300bc74294648961987">20d73a14dbaa3300bc74294648961945</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-07-05 17:15:11</sys_updated_on>
             <sys_user/>
@@ -61,7 +61,7 @@
             <sys_id>4d90189cdbe23300bc742946489619c3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sys_ui_policy" sys_domain="global" view="8195ea76db523300bc74294648961987">74588c18dbe23300bc7429464896191a</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sys_ui_policy" sys_domain="global" view="8195ea76db523300bc74294648961987">20d73a14dbaa3300bc74294648961945</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-07-05 17:15:11</sys_updated_on>
             <sys_user/>
@@ -75,7 +75,7 @@
             <sys_id>cd90189cdbe23300bc742946489619c3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sys_ui_policy" sys_domain="global" view="8195ea76db523300bc74294648961987">74588c18dbe23300bc7429464896191a</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sys_ui_policy" sys_domain="global" view="8195ea76db523300bc74294648961987">20d73a14dbaa3300bc74294648961945</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-07-05 17:15:11</sys_updated_on>
             <sys_user/>
@@ -89,7 +89,7 @@
             <sys_id>4190189cdbe23300bc742946489619c4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sys_ui_policy" sys_domain="global" view="8195ea76db523300bc74294648961987">74588c18dbe23300bc7429464896191a</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sys_ui_policy" sys_domain="global" view="8195ea76db523300bc74294648961987">20d73a14dbaa3300bc74294648961945</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-07-05 17:15:11</sys_updated_on>
             <sys_user/>
@@ -103,7 +103,7 @@
             <sys_id>c190189cdbe23300bc742946489619c4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sys_ui_policy" sys_domain="global" view="8195ea76db523300bc74294648961987">74588c18dbe23300bc7429464896191a</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sys_ui_policy" sys_domain="global" view="8195ea76db523300bc74294648961987">20d73a14dbaa3300bc74294648961945</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-07-05 17:15:11</sys_updated_on>
             <sys_user/>
@@ -117,7 +117,7 @@
             <sys_id>4590189cdbe23300bc742946489619c4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sys_ui_policy" sys_domain="global" view="8195ea76db523300bc74294648961987">74588c18dbe23300bc7429464896191a</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sys_ui_policy" sys_domain="global" view="8195ea76db523300bc74294648961987">20d73a14dbaa3300bc74294648961945</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-07-05 17:15:11</sys_updated_on>
             <sys_user/>
@@ -131,7 +131,7 @@
             <sys_id>c590189cdbe23300bc742946489619c4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sys_ui_policy" sys_domain="global" view="8195ea76db523300bc74294648961987">74588c18dbe23300bc7429464896191a</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sys_ui_policy" sys_domain="global" view="8195ea76db523300bc74294648961987">20d73a14dbaa3300bc74294648961945</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-07-05 17:15:11</sys_updated_on>
             <sys_user/>
@@ -145,7 +145,7 @@
             <sys_id>4990189cdbe23300bc742946489619c4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="sys_ui_policy" sys_domain="global" view="8195ea76db523300bc74294648961987">74588c18dbe23300bc7429464896191a</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="sys_ui_policy" sys_domain="global" view="8195ea76db523300bc74294648961987">20d73a14dbaa3300bc74294648961945</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-07-05 17:15:11</sys_updated_on>
             <sys_user/>
@@ -161,14 +161,14 @@
             <sys_created_on>2019-07-05 16:39:07</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>74588c18dbe23300bc7429464896191a</sys_id>
+            <sys_id>20d73a14dbaa3300bc74294648961945</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>sys_ui_policy</sys_name>
             <sys_overrides display_value="">global</sys_overrides>
             <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
             <sys_policy/>
             <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-            <sys_update_name>sys_ui_section_74588c18dbe23300bc7429464896191a</sys_update_name>
+            <sys_update_name>sys_ui_section_20d73a14dbaa3300bc74294648961945</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-07-05 16:39:07</sys_updated_on>
             <sys_user/>
